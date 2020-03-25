@@ -178,6 +178,7 @@ void TestTriangle() {
 }
 
 int main() {
+	//tests for figures)))
 	TestPoint();
 	TestLine();
 	TestPolygon();
